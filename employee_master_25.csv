@@ -1,0 +1,26 @@
+Emp_ID,Name,Role,Salary,Revised Salary,bonus
+101,Aakash,Developer,45000,25,25
+102,Rahul,Tester,52000,25,25
+103,Priya,HR,60000,25,25
+104,John,Analyst,48000,25,25
+105,Arun,Manager,55000,25,25
+106,Divya,Support,47000,25,25
+107,Karan,Designer,65000,25,25
+108,Nisha,Developer,58000,25,25
+109,Vijay,HR,50000,25,25
+110,Harish,Tester,62000,25,25
+111,Meena,Analyst,53000,25,25
+112,Ravi,Developer,49000,25,25
+113,Suresh,Support,57000,25,25
+114,Kavya,HR,54000,25,25
+115,Anu,Manager,61000,200000,25
+116,Deepak,Designer,52000,25,25
+117,Manoj,Tester,51000,25,25
+118,Keerthi,Developer,63000,25,25
+119,Ajay,Support,56000,25,25
+120,Sneha,HR,59000,25,25
+121,Rohit,Analyst,64000,25,25
+122,Pooja,Developer,45000,25,25
+123,Varun,Tester,70000,25,25
+124,Swetha,Manager,68000,25,25
+125,Bharath,Support,72000,25,25
